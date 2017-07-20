@@ -13,4 +13,4 @@ HTML5 With : SCSS, GULP, GULP-SASS, browserSync, Bootstrap 4, Jquery, Normalize.
 
 ## License
 
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the [MIT license](LICENSE).
