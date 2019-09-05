@@ -8,7 +8,7 @@
 
 ## Features
 
-HTML5 With : SCSS, GULP, GULP-SASS, browserSync, Bootstrap 4, Jquery, Normalize.css , ...
+HTML5 With : SCSS, GULP, GULP-SASS, browserSync, Bootstrap 4, Jquery, Normalize.css
 
 
 ## License
