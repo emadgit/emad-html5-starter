@@ -9,6 +9,7 @@
 ## Features
 
 HTML5 With : SCSS, GULP, GULP-SASS, browserSync, Bootstrap 4, Jquery, Normalize.css , ...
+- [ ] is it awesome?
 
 
 ## License
